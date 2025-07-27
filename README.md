@@ -10,6 +10,9 @@ This is a simple and elegant **Text to Speech Converter** web application built 
 - 🎨 Beautiful gradient background and clean, responsive UI
 - 💻 Works entirely on the client-side (no backend required)
 
+## 📸 Screenshots
+![image alt](https://github.com/TanmayPathak19/Text-to-Speech-Converter/blob/86f055d70c81dbfe57b0338416c0726092ae91b1/Screenshot.png)
+
 ## 🚀 Demo
 
 You can try the live version (optional):  
@@ -21,5 +24,3 @@ You can try the live version (optional):
 - CSS3 (with Flexbox and gradients)
 - Vanilla JavaScript
 - Web Speech API (SpeechSynthesis)
-
-## 📸 Screenshots
