@@ -21,3 +21,5 @@ You can try the live version (optional):
 - CSS3 (with Flexbox and gradients)
 - Vanilla JavaScript
 - Web Speech API (SpeechSynthesis)
+
+## 📸 Screenshots
